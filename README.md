@@ -1,6 +1,6 @@
 # 🌟 Cielo de mascotas
 
-- Una aplicación interactiva en 3D construida con React y Vite para honrar la memoria de Nala.
+- Una aplicación interactiva en 3D construida con React y Vite para honrar la memoria de tu mascota.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 🐾 Descripción
 
-**Cielo de Nala** es una aplicación web que ofrece una experiencia inmersiva en 3D para recordar a aquella mascota que se fué al cielo o una querida mascota. Al interactuar con una estrella especial en el cielo estrellado, se reproduce un sonido y se muestra una ventana modal con una imagen aleatoria y una frase conmovedora en su memoria.
+**Cielo de mascotas** es una aplicación web que ofrece una experiencia inmersiva en 3D para recordar a aquella mascota que se fué al cielo o una querida mascota. Al interactuar con una estrella especial en el cielo estrellado, se reproduce un sonido y se muestra una ventana modal con una imagen aleatoria y una frase conmovedora en su memoria.
 
 ---
 
