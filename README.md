@@ -74,9 +74,9 @@ const imagenes = Array.from({ length: 80 }, (_, i) => {
 ```
 
 # 📞 Contacto y Curso de Programación
-### ¿Te interesa aprender programación desde cero? Ofrezco un curso para principiantes donde aprenderás los fundamentos del desarrollo web, manipulación del DOM con Javascript y cómo crear tus propias aplicaciones.
+#### ¿Te interesa aprender programación desde cero? Ofrezco un curso para principiantes donde aprenderás los fundamentos del desarrollo web, manipulación del DOM con Javascript y cómo crear tus propias aplicaciones.
 
-**Conmigo aprenderás creando, no copiando.**  
+## Conmigo aprenderás creando, no copiando.**  
 _Nada de proyectos genéricos:_ **vas a crear cosas reales que muestran de lo que eres capaz.**
 
 
