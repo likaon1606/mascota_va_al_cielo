@@ -8,7 +8,7 @@
 
 - [Descripción](#-descripción)
 - [Características](#-características)
-- [Tecnologías utilizadas](#-Tecnologías-utilizadas)
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Instalación](#-instalación)
 - [Uso](#-uso)
 - [Contacto y Curso de Programación](#-contacto-y-curso-de-programación)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
