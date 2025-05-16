@@ -40,7 +40,7 @@ body, html, #root {
   backdrop-filter: blur(4px);
   cursor: pointer;
   transition: transform 0.3s;
-  z-index: 1; /* Asegúrate de que sea menor al modal */
+  z-index: 1; 
 }
 
 .special-star:hover {

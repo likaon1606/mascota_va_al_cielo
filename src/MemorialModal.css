@@ -1,4 +1,3 @@
-/* Fondo difuminado oscuro */
 .overlay {
   background-color: rgba(0, 0, 0, 0.75);
   position: fixed; /* Esto asegura que cubra toda la pantalla */
@@ -30,7 +29,7 @@
 /* Imagen */
 .dog-image {
   width: 100%;
-  height: 250px; /* Antes era max-height, ahora es fijo */
+  height: 250px; 
   border-radius: 10px;
   margin: 10px 0;
   object-fit: cover;

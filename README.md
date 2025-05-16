@@ -1,4 +1,4 @@
-# 🌟 Cielo de Nala
+# 🌟 Cielo de mascotas
 
 - Una aplicación interactiva en 3D construida con React y Vite para honrar la memoria de Nala.
 
@@ -8,17 +8,16 @@
 
 - [Descripción](#-descripción)
 - [Características](#-características)
-- [Tecnologías utilizadas](##-tecnologías-utilizadas)
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Instalación](#-instalación)
 - [Uso](#-uso)
 - [Contacto y Curso de Programación](#-contacto-y-curso-de-programación)
-- [Licencia](#-licencia)
 
 ---
 
 ## 🐾 Descripción
 
-**Cielo de Nala** es una aplicación web que ofrece una experiencia inmersiva en 3D para recordar a Nala, una querida mascota. Al interactuar con una estrella especial en el cielo estrellado, se reproduce un sonido y se muestra una ventana modal con una imagen aleatoria y una frase conmovedora en su memoria.
+**Cielo de Nala** es una aplicación web que ofrece una experiencia inmersiva en 3D para recordar a aquella mascota que se fué al cielo o una querida mascota. Al interactuar con una estrella especial en el cielo estrellado, se reproduce un sonido y se muestra una ventana modal con una imagen aleatoria y una frase conmovedora en su memoria.
 
 ---
 
@@ -61,6 +60,17 @@
 npm run dev
 # o
 yarn dev
+```
+
+- Puedes cambiar las frases en el archivo `frases.json`
+- Puedes cambiar el modelo 3d en la carpeta `public/models` y debe ser extensión .glb
+- También puedes colocar imagenes en la carpeta `public/mascota`
+- Está adecuado para soportar 5 imagenes aleatorias, pero puedes cambiar el número de imagenes a tus necesidades aquí:
+```js
+const imagenes = Array.from({ length: 80 }, (_, i) => {
+  const numero = String(i + 2).padStart(4, '0')
+  return `/nala/IMG-20250512-WA${numero}.jpg`
+})
 ```
 
 # 📞 Contacto y Curso de Programación

@@ -5,9 +5,9 @@ import frases from './frases.json' // Frases en JSON
 
 Modal.setAppElement('#root')
 
-const imagenes = Array.from({ length: 80 }, (_, i) => {
-  const numero = String(i + 2).padStart(4, '0')
-  return `/nala/IMG-20250512-WA${numero}.jpg`
+const imagenes = Array.from({ length: 5 }, (_, i) => {
+  const numero = String(i + 1).padStart(4, '0')
+  return `/mascota/IMG-20250512-WA${numero}.jpg`
 })
 
 export default function MemorialModal({ isOpen, onClose }) {
