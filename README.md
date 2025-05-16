@@ -8,7 +8,7 @@
 
 - [Descripción](#-descripción)
 - [Características](#-características)
-- [Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [Tecnologías utilizadas](#-Tecnologías-utilizadas)
 - [Instalación](#-instalación)
 - [Uso](#-uso)
 - [Contacto y Curso de Programación](#-contacto-y-curso-de-programación)
