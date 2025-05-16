@@ -30,7 +30,7 @@
 
 ---
 
-## Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
