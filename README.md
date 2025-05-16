@@ -76,7 +76,9 @@ const imagenes = Array.from({ length: 80 }, (_, i) => {
 # 📞 Contacto y Curso de Programación
 ### ¿Te interesa aprender programación desde cero? Ofrezco un curso para principiantes donde aprenderás los fundamentos del desarrollo web, manipulación del DOM con Javascript y cómo crear tus propias aplicaciones.
 
-## Te enseño con proyectos reales y NO con ejercicios sin sentido que nunca vas a utilizar.
+**Conmigo aprenderás creando, no copiando.**  
+_Nada de proyectos genéricos:_ **vas a crear cosas reales que muestran de lo que eres capaz.**
+
 
 - 📱 ***WhatsApp:*** +52 55 3260 4568
 
