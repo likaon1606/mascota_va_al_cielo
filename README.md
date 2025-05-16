@@ -1,8 +1,6 @@
 # 🌟 Cielo de Nala
 
-> Una aplicación interactiva en 3D construida con React y Vite para honrar la memoria de Nala.
-
-![Captura de pantalla de la aplicación](./screenshot.png)
+- Una aplicación interactiva en 3D construida con React y Vite para honrar la memoria de Nala.
 
 ---
 
@@ -10,7 +8,7 @@
 
 - [Descripción](#-descripción)
 - [Características](#-características)
-- [Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [Tecnologías utilizadas](##-tecnologías-utilizadas)
 - [Instalación](#-instalación)
 - [Uso](#-uso)
 - [Contacto y Curso de Programación](#-contacto-y-curso-de-programación)
